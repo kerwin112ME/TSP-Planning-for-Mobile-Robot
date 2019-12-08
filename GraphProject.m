@@ -1,7 +1,6 @@
 % MEEN 612 Mobile Robot Project
 clear
 clc
-load('mat/LRL_nodes.mat')
 %% Graph Construction
 Xrange = [0 100]; % map's x range
 Yrange = [0 100]; % map's y range
