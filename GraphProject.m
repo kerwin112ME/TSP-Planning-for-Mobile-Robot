@@ -137,6 +137,8 @@ for seg = 1:stations-1
 end
 axis auto
 
+fprintf("try 1");
+
 
 
 
